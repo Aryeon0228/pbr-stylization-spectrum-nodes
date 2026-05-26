@@ -4,7 +4,7 @@ title: "PBR Texture Stylization Spectrum — Substance 3D Designer Node Graphs"
 type: dataset
 authors:
   - family-names: "Kim"
-    given-names: "Soyeon"
+    given-names: "Soyoun"
     affiliation: "Dept. of Game Content, Graduate School, Hongik University"
     # orcid: "https://orcid.org/0000-0000-0000-0000"   # ORCID가 있으면 주석을 풀고 기입
 version: "1.0.0"
