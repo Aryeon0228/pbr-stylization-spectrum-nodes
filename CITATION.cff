@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite them using the metadata below."
+title: "PBR Texture Stylization Spectrum — Substance 3D Designer Node Graphs"
+type: dataset
+authors:
+  - family-names: "Kim"
+    given-names: "Soyeon"
+    affiliation: "Dept. of Game Content, Graduate School, Hongik University"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # ORCID가 있으면 주석을 풀고 기입
+version: "1.0.0"
+license: CC-BY-4.0
+keywords:
+  - "Substance Designer"
+  - "PBR texture"
+  - "stylization"
+  - "non-photorealistic rendering"
+  - "procedural texturing"
+  - "material perception"
+abstract: >-
+  Substance 3D Designer procedural node graphs used to generate the
+  experimental stimuli for a master's thesis on the realistic-to-stylized
+  transition point of PBR textures. Four materials (Wood, Metal, Rock,
+  Fabric), each driven by a Style Factor (SF) parameter.
+
+url: "https://github.com/Aryeon0228/pbr-stylization-spectrum-nodes"
+repository-code: "https://github.com/Aryeon0228/pbr-stylization-spectrum-nodes"
+
+# ─────────────────────────────────────────────────────────────
+# 아래 항목은 Zenodo 릴리스로 DOI를 발급받은 뒤 주석(#)을 풀고 채우세요.
+# date-released: "2026-00-00"
+# doi: "10.5281/zenodo.XXXXXXX"
+# ─────────────────────────────────────────────────────────────
